@@ -36,7 +36,25 @@ Hi! My name is Devin Bir.
 </a>
 <a href="https://www.markdownguide.org/cheat-sheet/" class="button small" style="background-color: #ca1111ff">
     <span style="color: #000000ff">.md cheatsheet</span>
+
+### Markdown Cheatsheet
+
+| Element      | Markdown Syntax |
+|--------------|----------|
+| Heading      | # H1<br/>## H2<br/>### H3  | 
+| Bold     | \*\*bold text**  |
+| Italic    | Avantika | 
+| Blockquote     | Aadit    |
+| Ordered List      | John     | 
+| Unordered List     | Torin    |
+| Code    | Avantika | 
+| Horizontal Rule     | Aadit    |
+| Link    | Avantika | 
+| Image     | Aadit    |
+
+
 <br>
+
 
 ### Class Progress
 
