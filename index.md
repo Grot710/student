@@ -34,7 +34,8 @@ Hi! My name is Devin Bir.
 <a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
-
+<a href="https://www.markdownguide.org/cheat-sheet/" class="button small" style="background-color: #ca1111ff">
+    <span style="color: #000000ff">VSCODE</span>
 <br>
 
 ### Class Progress
