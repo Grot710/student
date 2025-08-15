@@ -43,14 +43,14 @@ Hi! My name is Devin Bir.
 |--------------|----------|
 | Heading      | # H1<br/>## H2<br/>### H3  | 
 | Bold     | \*\*bold text**  |
-| Italic    | Avantika | 
-| Blockquote     | Aadit    |
-| Ordered List      | John     | 
-| Unordered List     | Torin    |
-| Code    | Avantika | 
-| Horizontal Rule     | Aadit    |
-| Link    | Avantika | 
-| Image     | Aadit    |
+| Italic    | \*italicized text* | 
+| Blockquote     | > blockquote    |
+| Ordered List      | 1. First item<br/>2. Second item<br/>3. Third item     | 
+| Unordered List     | - First item<br/>- Second item<br/>- Third item   |
+| Code    | \`code` | 
+| Horizontal Rule     |  ---   |
+| Link    | \[title](https://www.example.com) | 
+| Image     | \!\[alt text](image.jpg)    |
 
 
 <br>
