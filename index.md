@@ -37,7 +37,7 @@ Hi! My name is Devin Bir.
 <a href="https://www.markdownguide.org/cheat-sheet/" class="button small" style="background-color: #ca1111ff">
     <span style="color: #000000ff">.md cheatsheet</span>
 
-### Markdown Cheatsheet
+### Basic Syntax
 
 | Element      | Markdown Syntax |
 |--------------|----------|
