@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [Devin]
+title: I'm Devin Bir
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [Your Full Name].
+Hi! My name is Devin Bir.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
