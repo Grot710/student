@@ -37,7 +37,9 @@ Hi! My name is Devin Bir.
 <a href="https://www.markdownguide.org/cheat-sheet/" class="button small" style="background-color: #ca1111ff">
     <span style="color: #000000ff">.md cheatsheet</span>
 
-### Markdown Cheat Sheet Basic Syntax
+## Markdown Cheat Sheet 
+
+### Basic Syntax
 
 | Element      | Markdown Syntax |
 |--------------|----------|
@@ -51,7 +53,23 @@ Hi! My name is Devin Bir.
 | Horizontal Rule     |  ---   |
 | Link    | \[title](https://www.example.com) | 
 | Image     | \!\[alt text](image.jpg)    |
+| Escape Character     | \\\*non italicized text*    |
 
+
+### Extended Syntax
+
+| Element      | Markdown Syntax |
+|--------------|----------|
+| Table      | \| Syntax \| Description \|<br/>\| ----------- \| ----------- \|<br/>\| Header \| Title \|<br/>\| Paragraph \| Text \| | 
+| Fenced Code Block     | \```<br/>\{<br/>&nbsp;&nbsp;"firstName": "John",<br/>&nbsp;&nbsp;"lastName": "Smith"<br/>}<br/>\``` |
+| Footnote    | Here's a sentence with a footnote.<br/>\[^1] <br/> <br/>\[^1]: This is the footnote | 
+| Heading ID     | \### My Great Heading \{#custom-id}    |
+| Definition List      |  term<br/>: definition    | 
+| Strikthrough     | \~\~The world is flat.~~   |
+| Emoji<br/>(see also Copying and Pasting Emoji)    | That is so funny! \:joy:  | 
+| Highlight     |  I need to highlight these \==very<br/>important words==   |
+| Subscript    | H\~2~0 | 
+| Superscript     |  	X\^2\^     |
 
 <br>
 
