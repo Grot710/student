@@ -61,7 +61,7 @@ Hi! My name is Devin Bir.
 | Element      | Markdown Syntax |
 |--------------|----------|
 | Table      | \| Syntax \| Description \|<br/>\| ----------- \| ----------- \|<br/>\| Header \| Title \|<br/>\| Paragraph \| Text \| | 
-| Fenced Code Block     | \```<br/>\{<br/>&nbsp;&nbsp;"firstName": "John",<br/>&nbsp;&nbsp;"lastName": "Smith"<br/>}<br/>\``` |
+| Fenced Code Block     | \`\`\`<br/>\{<br/>&nbsp;&nbsp;"firstName": "John",<br/>&nbsp;&nbsp;"lastName": "Smith"<br/>}<br/>\`\`\` |
 | Footnote    | Here's a sentence with a footnote.<br/>\[^1] <br/> <br/>\[^1]: This is the footnote | 
 | Heading ID     | \### My Great Heading \{#custom-id}    |
 | Definition List      |  term<br/>: definition    | 
