@@ -97,16 +97,16 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Traveling the world
+### Fun Facts About Me
 
-Life in school
+UNKNOWN
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
+- 🏫 I enjoy watching Anime
+- 🏫 I've got into hobbies such as rubix cubes and magic(thought I'm not very good)
+- 🎓 I enjoy talking to my friends via call or in person
+- ⛪ I enjoy playing a variety of different game genres
+- 💼 I find interest in romance or fantasy novels/books
+- 🎓 
 - 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
 - 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
 - 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
