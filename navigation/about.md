@@ -107,6 +107,7 @@ Flags are made using Wikipedia images
 -  My favorite drink is milk 
 -  I love all types of cuisines
 -  Some of my favorite food is sushi and ramen
+
 ### Culture, Family, and Fun
 
 Most of my world revolves around my family and friends
