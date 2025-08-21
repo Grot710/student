@@ -46,7 +46,7 @@ Hi! My name is Devin Bir.
 
 
 | Element      | Markdown Syntax |
-|--------------|----------|
+|--------------|:----------|
 | Heading      | # H1<br/>## H2<br/>### H3  |
 | Bold     | \*\*bold text**  |
 | Italic    | \*italicized text* |
@@ -66,7 +66,7 @@ Hi! My name is Devin Bir.
 
 
 | Element      | Markdown Syntax |
-|--------------|----------|
+|--------------|:----------|
 | Table      | \| Syntax \| Description \|<br/>\| ----------- \| ----------- \|<br/>\| Header \| Title \|<br/>\| Paragraph \| Text \| |
 | Fenced Code Block     | \`\`\`<br/>\{<br/>&nbsp;&nbsp;"firstName": "John",<br/>&nbsp;&nbsp;"lastName": "Smith"<br/>}<br/>\`\`\` |
 | Footnote    | Here's a sentence with a footnote. \[^1] <br/> <br/>\[^1]: This is the footnote |
