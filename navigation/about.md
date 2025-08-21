@@ -99,33 +99,27 @@ Flags are made using Wikipedia images
 
 ### Fun Facts About Me
 
-UNKNOWN
-
-- 🏫 I enjoy watching Anime
-- 🏫 I've got into hobbies such as rubix cubes and magic(thought I'm not very good)
-- 🎓 I enjoy talking to my friends via call or in person
-- ⛪ I enjoy playing a variety of different game genres
-- 💼 I find interest in romance or fantasy novels/books
-- 🎓 
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
-
+-  I enjoy watching Anime
+-  I've got into hobbies such as rubix cubes and magic(thought I'm not very good)
+-  I enjoy talking to my friends via call or in person
+-  I enjoy playing a variety of different game genres
+-  I find interest in romance or fantasy novels/books
+-  My favorite drink is milk 
+-  I love all types of cuisines
+-  Some of my favorite food is sushi and ramen
 ### Culture, Family, and Fun
 
 Most of my world revolves around my family and friends
 
 - My nationality is American, my Ethinicity is Indian, and my name is Irish.
 - I love my parents and have a good relationship with them. I also have a brother who is two years older than I am. My brother and I share similar hobbies, and I also enjoy interests that my parents introduced me to, which we love bonding over together.
-
-## Gallery
 - The gallery has pics of me, my family and my friends
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/aboutfamily1.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/family1.jpg" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/family2.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/family3.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/family4.jpg" alt="Image 4">
