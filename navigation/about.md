@@ -118,23 +118,19 @@ Most of my world revolves around my family and friends
 - My nationality is American, my Ethinicity is Indian, and my name is Irish.
 - I love my parents and have a good relationship with them. I also have a brother who is two years older than I am. My brother and I share similar hobbies, and I also enjoy interests that my parents introduced me to, which we love bonding over together.
 
-## WIP
-- The gallery of pics has images of places I have traveled to with my family.
+## Gallery
+- The gallery has pics of me, my family and my friends
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/aboutfamily1.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/family2.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/family3.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/family4.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/family5.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/family6.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/family7.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/family8.jpg" alt="Image 8">
 </div>
