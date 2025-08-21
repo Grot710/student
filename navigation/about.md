@@ -60,10 +60,10 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "9/9e/Flag_of_Japan.svg", "greeting": "Konichiwa", "description": "Marvel - 6 years"},
-        {"flag": "f/fc/Valorant_logo_-_pink_color_version.svg", "greeting": "Hi", "description": "Valorant - 1 year"},
-        {"flag": "f/f2/Roblox_%282025%29_%28App_Icon%29.svg", "greeting": "Alright mate", "description": "Roblox - 7 years"},
-        {"flag": "e/ec/Steinway_%26_Sons_upright_piano%2C_model_K-52_%28mahogany_finish%29%2C_manufactured_at_Steinway%27s_factory_in_New_York_City.jpg", "greeting": "Aloha", "description": "Piano - 8 years"},
+        {"flag": "b/b9/Marvel_Logo.svg", "greeting": "Media", "description": "Marvel - 6 years"},
+        {"flag": "f/fc/Valorant_logo_-_pink_color_version.svg", "greeting": "Game", "description": "Valorant - 1 year"},
+        {"flag": "f/f2/Roblox_%282025%29_%28App_Icon%29.svg", "greeting": "Game", "description": "Roblox - 7 years"},
+        {"flag": "e/ec/Steinway_%26_Sons_upright_piano%2C_model_K-52_%28mahogany_finish%29%2C_manufactured_at_Steinway%27s_factory_in_New_York_City.jpg", "greeting": "Hobby", "description": "Piano - 8 years"},
     ];
 
     // 3a. Consider how to update style count for size of container
