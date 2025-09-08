@@ -70,8 +70,7 @@ permalink: /snake/
 
 <h2>Snake</h2>
 <div class="container">
-    <p class="fs-4">Score: <span id="score_value">0</span></p>
-
+    <p class="fs-4">Apples: <span id="score_value">0</span></p>
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
@@ -263,18 +262,29 @@ permalink: /snake/
                 snake[snake.length] = {x: snake[0].x, y: snake[0].y};
                 altScore(++score);
                 addFood();
-                activeDot(food.x, food.y);
+                activeDot(food.x, food.y, "#f02a2aff");
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            const checkerSize = BLOCK*2;
+            for (let y = 0; y < canvas.height; y += checkerSize) {
+                for (let x = 0; x < canvas.width; x += checkerSize) {
+                    // Alternate colors
+                    if (((x / checkerSize) + (y / checkerSize)) % 2 === 0) {
+                        ctx.fillStyle = "#7FFF00"; // light color
+                    } else {
+                        ctx.fillStyle = "#62c400ff"; // dark color
+                    }
+                    ctx.fillRect(x, y, checkerSize, checkerSize);
+                }
+            }
+
             // Paint snake
             for(let i = 0; i < snake.length; i++){
-                activeDot(snake[i].x, snake[i].y);
+                activeDot(snake[i].x, snake[i].y, "#1100ffff");
             }
             // Paint food
-            activeDot(food.x, food.y);
+            activeDot(food.x, food.y, "#f02a2aff");
             // Debug
             //document.getElementById("debug").innerHTML = snake_dir + " " + snake_next_dir + " " + snake[0].x + " " + snake[0].y;
             // Recursive call after speed delay, déjà vu
@@ -326,8 +336,8 @@ permalink: /snake/
         }
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
-        let activeDot = function(x, y){
-            ctx.fillStyle = "#FFFFFF";
+        let activeDot = function(x, y, color){
+            ctx.fillStyle = color;
             ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
         /* Random food placement */
