@@ -282,7 +282,12 @@ permalink: /snake/
 
             // Paint snake
             for(let i = 0; i < snake.length; i++){
-                activeDot(snake[i].x, snake[i].y, "#1100ffff");
+                activeDot(snake[i].x, snake[i].y, "#ffffffff");
+
+                if(i == 0)
+                {
+                    activeDot(snake[i].x, snake[i].y, "#1100ffff");
+                }
             }
             // Paint food
             activeDot(food.x, food.y, "#f02a2aff");

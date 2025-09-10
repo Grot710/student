@@ -30,6 +30,7 @@ permalink: /background
   function startGameWorld() {
     if (imagesLoaded < 2) return;
 
+    // Creates a template for all GameObjects
     class GameObject {
       constructor(image, width, height, x = 0, y = 0, speedRatio = 0) {
         this.image = image;
@@ -46,6 +47,7 @@ permalink: /background
       }
     }
 
+    // Makes background a gameObject that overrides both update and draw functions
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
@@ -60,6 +62,7 @@ permalink: /background
       }
     }
 
+    // Makes player a gameObject that overrides only update
     class Player extends GameObject {
       constructor(image, gameWorld) {
         const width = image.naturalWidth / 2;
@@ -68,14 +71,17 @@ permalink: /background
         const y = (gameWorld.height - height) / 2;
         super(image, width, height, x, y);
         this.baseY = y;
+        this.baseX = x;
         this.frame = 0;
       }
       update() {
-        this.y = this.baseY + Math.sin(this.frame * 0.05) * 20;
+        this.x = this.baseX + Math.sin(this.frame * 3) * 20;
+        this.y = this.baseY + Math.sin(this.frame * 0.02) * 20;
         this.frame++;
       }
     }
 
+    // Gameworld for the game
     class GameWorld {
       static gameSpeed = 5;
       constructor(backgroundImg, spriteImg) {
@@ -95,7 +101,7 @@ permalink: /background
          new Background(backgroundImg, this),
          new Player(spriteImg, this)
         ];
-      }
+      } // Makes the sidescroller loop
       gameLoop() {
         this.ctx.clearRect(0, 0, this.width, this.height);
         for (const obj of this.gameObjects) {
@@ -108,6 +114,7 @@ permalink: /background
         this.gameLoop();
       }
     }
+
 
     const world = new GameWorld(backgroundImg, spriteImg);
     world.start();
