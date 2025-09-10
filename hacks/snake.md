@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Snake Game
-permalink: /snake/
+permalink: /student/snake/
 ---
 
 <style>

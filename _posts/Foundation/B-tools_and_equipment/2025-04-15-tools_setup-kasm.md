@@ -7,7 +7,7 @@ title: KASM Workspace Operating System and Tools Setup
 description: Setup guide for using the Ubuntu-based KASM Workspace for development.
 categories: ['DevOps']
 author: Lily Wu
-permalink: /tools/os/kasm
+permalink: /student/tools/os/kasm
 breadcrumb: True 
 ---
 

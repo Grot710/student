@@ -7,7 +7,7 @@ title: Windows (WSL) Operating System and Tools Setup
 description: Setup guide for using Windows Subsystem for Linux with Ubuntu for development.
 categories: ['DevOps']
 author: Lily Wu
-permalink: /tools/os/windows
+permalink: /student/tools/os/windows
 breadcrumb: True 
 ---
 

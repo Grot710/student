@@ -5,7 +5,7 @@ data: tools
 title: GitHub 
 description: This guide will assists as we work through the class together — this is not comprehensive as we will evolve on GitHub collaboration together!
 categories: ['DevOps']
-permalink: /tools/github
+permalink: /student/tools/github
 breadcrumb: True 
 ---
 
