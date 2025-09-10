@@ -6,7 +6,7 @@ title: MacOS Operating System and Tools Setup
 description: Setup guide for MacOS developer tools including Homebrew, Python, and more.
 categories: ['DevOps']
 author: Lily Wu
-permalink: /student/tools/os/macos
+permalink: tools/os/macos
 breadcrumb: True 
 ---
 

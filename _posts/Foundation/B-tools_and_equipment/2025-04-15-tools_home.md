@@ -9,7 +9,7 @@ description: Tech has reshaped our lives, from the internet to the smartphone in
 courses: {'csse': {'week': 2}, 'csp': {'week': 2}, 'csa': {'week': 1}}
 type: tech skills
 categories: [DevOps]
-permalink: /student/tools/
+permalink: tools/
 sticky_rank: 1
 ---
 

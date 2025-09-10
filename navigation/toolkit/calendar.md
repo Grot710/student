@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: /student/calendar
+permalink: calendar
 layout: aesthetihawk
 active_tab: calendar
 ---
