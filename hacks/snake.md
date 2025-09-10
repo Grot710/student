@@ -201,6 +201,7 @@ permalink: /snake/
                             setWall(wall_setting[i].value);
                         }
                     }
+                    
                 });
             }
             // activate window events
