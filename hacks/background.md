@@ -3,8 +3,8 @@ layout: opencs
 title: Background with Object
 description: Use JavaScript to have an in motion background.
 sprite: /images/platformer/sprites/flying-ufo.png
-background: /images/platformer/backgrounds/alien_planet1.jpg
-permalink: /background/
+background: /images/platformer/backgrounds/white_house.jpg
+permalink: /background
 ---
 
 <canvas id="world"></canvas>
