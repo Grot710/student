@@ -2,8 +2,8 @@
 layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
-sprite: images/platformer/sprites/flying-ufo.png
-background: images/platformer/backgrounds/alien_planet.jpg
+sprite: images/platformer/sprites/donald.jpg
+background: images/platformer/backgrounds/white_house.png
 permalink: /background
 ---
 
@@ -14,8 +14,8 @@ permalink: /background
   const ctx = canvas.getContext('2d');
   const backgroundImg = new Image();
   const spriteImg = new Image();
-  backgroundImg.src = 'images/platformer/backgrounds/alien_planet.jpg';
-  spriteImg.src = 'images/platformer/sprites/flying-ufo.png';
+  backgroundImg.src = 'images/platformer/backgrounds/white_house.png';
+  spriteImg.src = 'images/platformer/sprites/donald.jpg';
 
   let imagesLoaded = 0;
   backgroundImg.onload = function() {
