@@ -14,7 +14,7 @@ permalink: /background
   const ctx = canvas.getContext('2d');
   const backgroundImg = new Image();
   const spriteImg = new Image();
-  backgroundImg.src = 'images/platformer/backgrounds/alien_planet.png';
+  backgroundImg.src = 'images/platformer/backgrounds/alien_planet.jpg';
   spriteImg.src = 'images/platformer/sprites/flying-ufo.png';
 
   let imagesLoaded = 0;
